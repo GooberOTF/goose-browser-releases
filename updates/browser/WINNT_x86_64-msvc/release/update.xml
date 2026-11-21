@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="0.1.0a" appVersion="0.1.0a" platformVersion="160.0" buildID="20261121173217">
+    <patch type="complete" URL="https://github.com/GooberOTF/goose-browser-releases/releases/download/0.1.0a/windows.mar" hashFunction="sha512" hashValue="e34a0d728583ebfab54ab5e4ad199c7489b486d538dc849a38548728937a6f24deeeab33bc30d087c8f9819fc8eb6e692ae0a377233cc1dfad71f748489bad21" size="126354452"/>
+  </update>
+</updates>
