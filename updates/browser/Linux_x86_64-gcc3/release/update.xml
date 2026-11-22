@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.0a" appVersion="0.1.0a" platformVersion="160.0" buildID="20261118192117">
-    <patch type="complete" URL="https://github.com/GooberOTF/goose-browser-releases/releases/download/0.1.0a/linux.mar" hashFunction="sha512" hashValue="bbfeb12dc9e8d478071a76779eab9f6e3a91b71e83d8a997e540c3a38b501ed794760fe0f0d99a22dca2bed3d87e57e4416fc77f0d0db73b03678c8b98c14da1" size="112888444"/>
+  <update type="minor" displayVersion="0.1.0b" appVersion="0.1.0b" platformVersion="160.0" buildID="20261122024831">
+    <patch type="complete" URL="https://github.com/GooberOTF/goose-browser-releases/releases/download/0.1.0b/linux.mar" hashFunction="sha512" hashValue="ec57ba51acee8c5be08e37352891e69facedf89c2e9922ad14587558e79d15e3c3e48916b0eb7b6a7bc2d33c7e2930a00f2261b72790a3160f870cdfe5d55d53" size="112895980"/>
   </update>
 </updates>
