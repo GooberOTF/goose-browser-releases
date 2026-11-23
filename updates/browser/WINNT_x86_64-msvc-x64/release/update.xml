@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.0a" appVersion="0.1.0a" platformVersion="160.0" buildID="20261121173217">
-    <patch type="complete" URL="https://github.com/GooberOTF/goose-browser-releases/releases/download/0.1.0a/windows.mar" hashFunction="sha512" hashValue="e34a0d728583ebfab54ab5e4ad199c7489b486d538dc849a38548728937a6f24deeeab33bc30d087c8f9819fc8eb6e692ae0a377233cc1dfad71f748489bad21" size="126354452"/>
+  <update type="minor" displayVersion="0.1.0c" appVersion="0.1.0c" platformVersion="160.0" buildID="20261123033546">
+    <patch type="complete" URL="https://github.com/GooberOTF/goose-browser-releases/releases/download/0.1.0c/windows.mar" hashFunction="sha512" hashValue="633567904f35631196c518bb8b7fe646bfbba8722560b8e7b20803bea741f18ef8edb7f57a01f42ab239595554fa1af34deca6c078dbe25ace55989dcf41d32e" size="110889876"/>
   </update>
 </updates>
